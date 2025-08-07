@@ -1,0 +1,26 @@
+[
+    {
+        "id": "bodega_aseo_01",
+        "nombre": "Bodega de Aseo 01",
+        "tipo": "bodega",
+        "descripcion": "Bodega de Aseo del Block de Procesos",
+        "x": 34,
+        "y": 161,
+        "media": {
+            "foto": "imagenes/bodega_aseo_01.jpg",
+            "video": "videos/bodega_aseo_01.jpg"
+        }
+    },
+    {
+        "id": "bano_01",
+        "nombre": "Baño de Estudiantes",
+        "tipo": "bano",
+        "descripcion": "Baño de Estudiantes Varones",
+        "x": 46,
+        "y": 150,
+        "media": {
+            "foto": "imagenes/bano_01.jpg",
+            "video": null
+        }
+    }
+]
